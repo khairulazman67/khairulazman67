@@ -1,5 +1,5 @@
 ### Hallo Donya 👋
-I am a web developer with a strong focus on backend development. I have over 2 years of experience working extensively with PHP, particularly the Laravel framework. Besides that, I have also worked on applications using node js, namely express js as the back end and vue js as the front end. However, I am currently eager to expand my skill set and knowledge by venturing into Golang (Go) programming.
+I am a web developer with a strong focus on backend development. I have over 3 years of experience working extensively with PHP and Javascript, particularly the Laravel framework, express js. Besides that, I have also worked on applications using node js, namely express js as the back end and vue js as the front end. However, I am currently eager to expand my skill set and knowledge by venturing into Golang (Go) programming.
 <!--
 **khairulazman67/khairulazman67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
